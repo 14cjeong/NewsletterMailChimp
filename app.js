@@ -66,7 +66,4 @@ app.listen(process.env.PORT || 3000, function() {
   console.log("Jawn is up and running on port 3000!");
 });
 
-//API Keys
-// f4e6bf1c56115a8f022687ca8fad74fd-us20
 
-//d57388206b
