@@ -37,7 +37,7 @@ app.post("/", function(req, res) {
     url: "https://us20.api.mailchimp.com/3.0/lists/d57388206b",
     method: "POST",
     headers: {
-      "Authorization": "chang1 f4e6bf1c56115a8f022687ca8fad74fd-us20"
+      "Authorization": "chang1 0000000000000000000000ca8fad74fd-us20" //Fake API Key
     },
     body: jsonDATA
   };
